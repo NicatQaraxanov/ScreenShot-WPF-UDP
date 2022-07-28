@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jFZAtRpVVav5iXp5EAFz65aMyIQ7esoYOuFQPXOoen3AXGDOZaCG96TOG1WXDRiuLQtWQDco8Y7iZPMoWmc9WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tnqar\\OneDrive\\Рабочий стол\\NetworkProgramming\\Homeworks\\ScreenShot\\SS\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tnqar\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\tnqar\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
